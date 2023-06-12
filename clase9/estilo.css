@@ -1,0 +1,20 @@
+.borde{
+    border-width: 10px;
+    border-style: dotted;
+    border-color: brown;
+}
+.raya{
+    border-width: 1px;
+    border-style: dotted;
+    border-color: rgb(0, 0, 0);
+}
+.verde{
+    border-style: dashed;
+    border-width: 4px;
+    border-color: green;
+}
+.bajo{
+    border-bottom:blue;
+    border-width: 4px;
+    border-style: groove;
+}
