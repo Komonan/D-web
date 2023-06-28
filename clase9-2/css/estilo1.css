@@ -1,0 +1,36 @@
+*{
+    margin: 20px;
+}
+.caja{
+    border: 8px dashed crimson;
+    padding: 80px;
+    background-color: teal;
+    font-style:oblique;
+    font-weight: bolder;
+    font-size: larger;
+    -webkit-text-stroke: 1px;
+}
+.caja2{
+    border: 5px solid rgb(210, 101, 210);
+    width: 50%;
+    background-color: brown;
+    padding: 7px;
+    font-style:oblique;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    margin: 5% auto;
+}
+.caja3{
+    border: 30px double palegreen;
+    background-color: palevioletred;
+    padding: 7px;
+    font-style:oblique;
+    font-weight: bolder;
+    font-size: larger;
+    width: 50%;
+    margin: 0 auto;
+}
+.c{
+    background-color: rgb(26, 26, 26);
+}
