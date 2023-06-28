@@ -1,0 +1,31 @@
+#menu li{ 
+    display: inline-block; /*display: inline-block permite establecer un ancho y alto en el elemento*/ 
+    } 
+    #menu a{ 
+    margin-right: 0.12em; 
+    padding: 1em 1.5em; 
+    background-color: #2992af; 
+    box-shadow: 0px 2px 0px 0px rgba(0,0,0,0.25) inset; 
+    text-decoration: none; 
+    text-shadow: 1px 1px 0px #0c5774; 
+    text-transform: uppercase; 
+    font-size: .90em; 
+    color: #fff; 
+    transition: 400ms;
+    } 
+    #menu a:hover{ 
+    
+        opacity: 0.8; 
+        color: rgb(164, 148, 255); 
+        background-color: rgb(255, 0, 0); 
+        }
+    body { 
+    margin:0em; 
+    padding: 0em; 
+    background-color: #164c5b; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif; 
+    font-size: 14px; 
+    color: #525252; 
+    } 
+    
