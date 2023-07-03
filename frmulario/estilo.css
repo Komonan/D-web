@@ -1,0 +1,29 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.btn1{
+    border-color: red;
+    color: red; 
+    font-size: 32px;
+}
+.back{
+    background-color: rgb(255, 255, 255);
+}
+.btn2{
+    font-size: 32px;
+}
+.resultado{
+    display: flex;
+    height: 150px;
+}
+.rojo{
+    font-size:small;
+    background-color: rgb(69, 119, 166);
+}
+.blue{
+    font-size: small;
+    background-color: rgb(255, 107, 53);
+}
