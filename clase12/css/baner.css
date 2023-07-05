@@ -1,0 +1,8 @@
+@font-face {
+    font-family: kid;
+    src: url('/fuentes/kid.ttf');
+}
+.fondo{
+    background-color: violet;
+    font-family: kid,cursive;
+}

@@ -1,0 +1,27 @@
+.caja{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #5b5bff;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 30px;
+    transition: 2s;
+    text-align: center;
+    box-shadow: 5px 5px #ff5b5b;
+}
+.caja:hover{
+    transform: matrix3d(180deg);
+    opacity: 0.8;
+    background-color: rgb(255, 70, 70);
+    box-shadow: -5px 5px #5b5bff;
+}
+.titulo{
+    text-shadow: 5px 5px 5px rgb(255, 234, 0);
+    transition: 2s;
+}
+.titulo:hover{
+    transform: matrix(180deg);
+    opacity: 0.8;
+    text-shadow: -5px 5px 5px rgb(0, 0, 255);
+}

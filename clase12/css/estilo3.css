@@ -1,0 +1,11 @@
+.fondo{
+    background-color: salmon;
+}
+.boton{
+    border: 0px;
+    background-color: springgreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgb(31, 83, 171);
+    width: 100px;
+    text-align: center;
+}
